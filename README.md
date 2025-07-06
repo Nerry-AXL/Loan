@@ -1,7 +1,3 @@
-Here’s a polished and comprehensive `README.md` template tailored for your **Loan** repository. This template assumes a loan risk prediction model with an API—you can adapt as needed.
-
----
-
 ````markdown
 # Loan Risk Predictor
 
